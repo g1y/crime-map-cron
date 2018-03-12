@@ -1,0 +1,1319 @@
+JJ
+09/08/17               San Luis Obispo Police Department                     978
+08:00                            Summary Report                      Page:     1
+
+--------------------------------------------------------------------------------
+===============================================================================
+170907018 09/07/17 Received:07:24 Dispatched:07:26 Arrived:07:30 Cleared:07:33
+===============================================================================
+Type: Assist O Police                                         Location:LZ0
+As Observed:
+
+Addr: FOOTHILL W & LOVR; GRID D-10, SLO County,  Clearance Code:Unable to Locate
+
+Responsible Officer: Berrios, G
+Units: 4216  ,4237
+ Des: incid#=170907018 Completed call disp:NR clr:UTL call=24l
+CALL COMMENTS: 20002 VEH CURRENTLY AT TASSAJARA GRN VAN WITH BRANCH OUT OF BACK
+===============================================================================
+170907019 09/07/17 Received:07:21 Dispatched:17:12 Arrived:17:21 Cleared:18:22
+===============================================================================
+Type: Prowler                                                 Location:PN5
+As Observed:
+      Peeping Tom
+
+Addr: 645 PALM # 6; GRID J-09, San Luis Obispo,  Clearance Code:Report To Follow
+
+Responsible Officer: Bywater, J
+Units: COM1  ,4242
+ Des: (MDC) Completed call incid#=170907019 call=88l
+CALL COMMENTS: **** REOPENE CALL FEMALE IS HOME FOR CONTACT ****
+===============================================================================
+170907020 09/07/17 Received:07:32 Dispatched:07:35 Arrived:07:57 Cleared:13:33
+===============================================================================
+Type: Disorderly                                              Location:PN5
+As Observed:
+      Obstructing Justice
+
+Addr: 751 PALM; OLD MISSION CHURCH; GRID J-09,   Clearance Code:Report To Follow
+
+Responsible Officer: Behrens, J
+Units: 4205  ,4205  ,S9
+ Des: incid#=170907020 AP/MORRIS,RICHARD 010364 WARRANTS clr:RTF oc:WARR
+      call=25l
+CALL COMMENTS: 5150 INSIDE CHURCH
+===============================================================================
+170907021 09/07/17 Received:07:46 Dispatched:      Arrived:07:52 Cleared:08:14
+===============================================================================
+Type: Trespassing                                             Location:PN13
+As Observed:
+      Trespassing at School
+
+Addr: 1443 CALLE JOAQUIN; AMERICAS TIRE; GRID H  Clearance Code:Field Interview
+
+Responsible Officer: Mathews, C
+Units: 4237
+ Des: (MDC) Completed call incid#=170907021 call=26l
+CALL COMMENTS: TRANSIENT "RELUCTANT" TO LEAVE - HAS BEEN THERE 3 DAYS
+===============================================================================
+170907022 09/07/17 Received:07:51 Dispatched:      Arrived:07:51 Cleared:08:00
+===============================================================================
+Type: Traffic Offense                                         Location:PN10
+As Observed:
+      Traffic Offense
+
+Addr: SOUTH & BROAD; GRID K-11, San Luis Obispo  Clearance Code:No Report
+
+Responsible Officer: Orozco, S
+Units: 4240  ,4247
+ Des: (MDC) Completed call incid#=170907022 call=27l
+CALL COMMENTS: 07:53:41 09/07/2017 - Hixenbaugh, D - From: Orozco, S
+===============================================================================
+170907023 09/07/17 Received:07:58 Dispatched:08:03 Arrived:08:12 Cleared:08:15
+===============================================================================
+Type: Suspicious                                              Location:PN8
+As Observed:
+      Suspicious Person/Circumstance
+
+Addr: 1712 FOREMAN; GRID G-15, San Luis Obispo,  Clearance Code:Gone on Arrival
+
+Responsible Officer: Stradley, E
+Units: 4247  ,4240
+ Des: (MDC) Completed call incid#=170907023 call=28l
+CALL COMMENTS: SUBJ SITTING ON THE GRASS STRIP BTWN STREET & SIDEWALK
+===============================================================================
+170907024 09/07/17 Received:08:29 Dispatched:      Arrived:08:29 Cleared:08:31
+===============================================================================
+Type: Traffic Offense                                         Location:PN10
+As Observed:
+
+Addr: MADONNA & HIGUERA; GRID J-12, San Luis Ob  Clearance Code:Report To Follow
+
+Responsible Officer: Orozco, S
+Units: 4240  ,4237  ,S9
+ Des: incid#=170907024 AP/LAY,MATTHEW 121776 1203.2PC, VC2800.1A disp:ACT
+      clr:RTF call + =37l
+CALL COMMENTS: 08:30:16 09/07/2017 - Hixenbaugh, D - From: Orozco, S
+===============================================================================
+170907025 09/07/17 Received:08:32 Dispatched:      Arrived:08:48 Cleared:08:51
+===============================================================================
+Type: Traffic Offense                                         Location:PN13
+As Observed:
+
+Addr: 101N PRADO; GRID I-14, San Luis Obispo, C  Clearance Code:Unable to Locate
+
+Responsible Officer: Mathews, C
+Units: 4237
+ Des: (MDC) Completed call incid#=170907025 call=30l
+CALL COMMENTS: EXITED FWY AT PRADO - WENT ACROSS HIG & CONTINUED E/B ON PRADO
+===============================================================================
+170907026 09/07/17 Received:08:41 Dispatched:      Arrived:08:41 Cleared:09:04
+===============================================================================
+Type: Warrant                                                 Location:PN6
+As Observed:
+      Warrant Bench Misdemeanor
+
+Addr: CYPRESS & BRANCH; GRID J-11, San Luis Obi  Clearance Code:Report To Follow
+
+Responsible Officer: Benson, G
+Units: 4222  ,4240
+ Des: incid#=170907026 AP/MORRIS,RICHARD 010364 WARRANTS clr:RTF oc:WARR
+      call=33l
+CALL COMMENTS:
+===============================================================================
+170907027 09/07/17 Received:08:54 Dispatched:10:00 Arrived:10:03 Cleared:10:09
+===============================================================================
+Type: Welfare Check                                           Location:PN13
+As Observed:
+      Welfare Check
+
+Addr: 1605 CALLE JOAQUIN; COURTYARD BY MARRIOTT  Clearance Code:Gone on Arrival
+
+Responsible Officer: Stradley, E
+Units: 4247  ,S9    ,4237
+ Des: (MDC) Completed call incid#=170907027 call=34l
+CALL COMMENTS: FEMALE STAGGERING, LS WALKING IN DRIVEWAY THAT GOES TWDS M6
+===============================================================================
+170907028 09/07/17 Received:08:56 Dispatched:      Arrived:10:59 Cleared:11:04
+===============================================================================
+Type: MC-CAMPING                                              Location:PN3
+As Observed:
+
+Addr: 2015 MONTEREY; APPLE FARM INN; GRID L-07,  Clearance Code:Gone on Arrival
+
+Responsible Officer: Stradley, E
+Units: 4247
+ Des: incid#=170907028 Completed call disp:NR clr:GOA call=35l
+CALL COMMENTS: MALE SLEEPING ON THE PROPERTY OFF OF MONTEREY BY MOTEL IN PLOT ON
+===============================================================================
+170907029 09/07/17 Received:09:08 Dispatched:09:09 Arrived:09:09 Cleared:09:09
+===============================================================================
+Type: Lost Property                                           Location:PN8
+As Observed:
+      Lost or Found Property
+
+Addr: 1762 DEVAUL; GRID F-15, San Luis Obispo,   Clearance Code:Report To Follow
+
+Responsible Officer: Barrett, J
+Units: 42K3
+ Des: (MDC) Completed call incid#=170907029 call=36l
+CALL COMMENTS: NO CONTACT NEEDED
+===============================================================================
+170907030 09/07/17 Received:09:14 Dispatched:      Arrived:09:22 Cleared:09:29
+===============================================================================
+Type: Information                                             Location:LZ0
+As Observed:
+
+Addr: BUCKLEY & HIDDEN SPRINGS; GRID 674 D 4, S  Clearance Code:No Report
+
+Responsible Officer: Lichty, S
+Units: COM1  ,SLSO
+ Des: incid#=170907030 Completed call disp:NR clr:NR call=38l
+CALL COMMENTS:
+===============================================================================
+170907031 09/07/17 Received:09:21 Dispatched:      Arrived:09:57 Cleared:09:59
+===============================================================================
+Type: Disorderly                                              Location:PN9
+As Observed:
+      Disturbing the Peace
+
+Addr: 3190 HIGUERA S; DMV; GRID J-14; X FROM, S  Clearance Code:Gone on Arrival
+
+Responsible Officer: Stradley, E
+Units: 4247
+ Des: (MDC) Completed call incid#=170907031 call=40l
+CALL COMMENTS: MALE FEMALE 415 BY THE BUS STOP MALE GRABBING FEMALE
+===============================================================================
+170907032 09/07/17 Received:09:35 Dispatched:09:38 Arrived:09:43 Cleared:10:11
+===============================================================================
+Type: COLL NON INJ                                            Location:PN13
+As Observed:
+
+Addr: LOVR & FROOM RANCH; GRID G-15, San Luis O  Clearance Code:Report To Follow
+
+Responsible Officer: Barrett, J
+Units: 42K3
+ Des: (MDC) Completed call incid#=170907032 call=41l
+CALL COMMENTS: PD LOBBY
+===============================================================================
+170907033 09/07/17 Received:09:39 Dispatched:      Arrived:10:23 Cleared:10:25
+===============================================================================
+Type: POSTING VEHS                                            Location:PN5
+As Observed:
+
+Addr: BROAD & MONTEREY; GRID J-09, San Luis Obi  Clearance Code:No Report
+
+Responsible Officer: Barrett, J
+Units: 42K3
+ Des: (MDC) Completed call incid#=170907033 call=42l
+CALL COMMENTS: 6 SPACES AT THE DOGLEG FOR FRIDAY, 9/8 FROM 1100-2200 HRS
+===============================================================================
+170907034 09/07/17 Received:10:03 Dispatched:10:10 Arrived:10:25 Cleared:10:36
+===============================================================================
+Type: Theft                                                   Location:PN6
+As Observed:
+      Trespassing
+
+Addr: 1321 JOHNSON; SMART AND FINAL; GRID L-09,  Clearance Code:No Report
+
+Responsible Officer: Mathews, C
+Units: 4237  ,4247
+ Des: (MDC) Completed call incid#=170907034 call=43l
+CALL COMMENTS: 2 MALES STOLE ALCOHOL, NOW SITTING ON THE SIDE OF THE BUILDING NE
+===============================================================================
+170907035 09/07/17 Received:10:20 Dispatched:10:25 Arrived:10:29 Cleared:10:55
+===============================================================================
+Type: Assist O Police                                         Location:PN7
+As Observed:
+      Assist Other Agency
+
+Addr: 2178 JOHNSON; MENTAL HEALTH OUTPATIENT; G  Clearance Code:No Report
+
+Responsible Officer: Sisemore, P
+Units: 4225  ,S9    ,4247
+ Des: incid#=170907035 Completed call disp:NR clr:NR oc:-AOA call=44l
+CALL COMMENTS: 1198 PARKING LOT OF OUTPATIENT, LOWER LOT BY JOHNSON
+===============================================================================
+170907036 09/07/17 Received:10:58 Dispatched:11:07 Arrived:11:08 Cleared:11:21
+===============================================================================
+Type: Suspicious                                              Location:PN6
+As Observed:
+
+Addr: 649 BRANCH # 1; GRID K-11, San Luis Obisp  Clearance Code:No Report
+
+Responsible Officer: Mathews, C
+Units: 4237
+ Des: (MDC) Completed call incid#=170907036 call=46l
+CALL COMMENTS: RP AVAIL BY 10-21
+===============================================================================
+170907037 09/07/17 Received:11:00 Dispatched:11:06 Arrived:11:15 Cleared:11:29
+===============================================================================
+Type: Welfare Check                                           Location:PN7
+As Observed:
+
+Addr: 1335 ELLA # 9; GRID L-10, San Luis Obispo  Clearance Code:No Report
+
+Responsible Officer: Pellouso, A
+Units: 4241  ,4247
+ Des: (MDC) Completed call incid#=170907037 call=47l
+CALL COMMENTS: BROTHER WHO IS BLIND AND HAS HEALTH PROBLEMS RP HASN'T HEARD FROM
+===============================================================================
+170907038 09/07/17 Received:11:31 Dispatched:11:43 Arrived:11:46 Cleared:11:53
+===============================================================================
+Type: Welfare Check                                           Location:PN1
+As Observed:
+
+Addr: 880 FOOTHILL; SCOUT COFFEE; GRID J-06, Sa  Clearance Code:Field Interview
+
+Responsible Officer: Stradley, E
+Units: 4247  ,4241
+ Des: incid#=170907038 Completed call clr:FI call=49l
+CALL COMMENTS:
+===============================================================================
+170907039 09/07/17 Received:11:36 Dispatched:12:00 Arrived:12:03 Cleared:12:03
+===============================================================================
+Type: Lost Property                                           Location:PN5
+As Observed:
+
+Addr: CITY OF SAN LUIS OBISPO; ENTIRE CITY, San  Clearance Code:Report To Follow
+
+Responsible Officer: Barrett, J
+Units: 42K3
+ Des: (MDC) Completed call incid#=170907039 call=51l
+CALL COMMENTS: BLU PURPLEISH SMALL ZIP UP WALLET GOLDEN GATE BRIDGE EMPBLEM BRID
+===============================================================================
+170907040 09/07/17 Received:11:52 Dispatched:      Arrived:11:52 Cleared:12:21
+===============================================================================
+Type: Warrant                                                 Location:PN8
+As Observed:
+
+Addr: MADONNA & OCEANAIRE; GRID H-14, San Luis   Clearance Code:Report To Follow
+
+Responsible Officer: Orozco, S
+Units: 4240  ,4247  ,4237
+ Des: incid#=170907040 AP/KELLEY,EUGENE 111070 WARRANT clr:RTF oc:WARR call=52l
+CALL COMMENTS:
+===============================================================================
+170907041 09/07/17 Received:12:02 Dispatched:      Arrived:12:04 Cleared:12:04
+===============================================================================
+Type: ABAND VEHICLE                                           Location:PN13
+As Observed:
+
+Addr: 1423 CALLE JOAQUIN; ALFANO MOTORCARS; GRI  Clearance Code:Report To Follow
+
+Responsible Officer: Lichty, S
+Units: COM1
+ Des: incid#=170907041 Completed call clr:RTF call=53l
+CALL COMMENTS: BLK 2003 MERZ C230 L/6DFH448
+===============================================================================
+170907042 09/07/17 Received:12:07 Dispatched:      Arrived:12:07 Cleared:12:34
+===============================================================================
+Type: Fraud                                                   Location:PN5
+As Observed:
+      Fraud
+
+Addr: CITY OF SAN LUIS OBISPO; ENTIRE CITY, San  Clearance Code:Report To Follow
+
+Responsible Officer: Vitale, E
+Units: 4207
+ Des: (MDC) Completed call incid#=170907042 call=54l
+CALL COMMENTS: 12:34:59 09/07/2017 - Vitale, E
+===============================================================================
+170907043 09/07/17 Received:12:54 Dispatched:13:06 Arrived:13:08 Cleared:14:29
+===============================================================================
+Type: Sex Offense                                             Location:PN12
+As Observed:
+      Force Sex Aslt, Rape
+
+Addr: 3900 HIGUERA S, San Luis Obispo, CA   Clearance Code:Report To Follow
+
+Responsible Officer: Pellouso, A
+Units: 4241
+ Des: (MDC) Completed call incid#=170907043 call=55l
+CALL COMMENTS:
+===============================================================================
+170907044 09/07/17 Received:13:02 Dispatched:13:07 Arrived:13:07 Cleared:13:07
+===============================================================================
+Type: Lost Property                                           Location:PN5
+As Observed:
+
+Addr: CITY OF SAN LUIS OBISPO; ENTIRE CITY, San  Clearance Code:Report To Follow
+
+Responsible Officer: Barrett, J
+Units: 42K3
+ Des: (MDC) Completed call incid#=170907044 call=56l
+CALL COMMENTS: NO CONTACT NEEDED
+===============================================================================
+170907045 09/07/17 Received:13:04 Dispatched:13:05 Arrived:13:14 Cleared:13:15
+===============================================================================
+Type: Parking Problem                                         Location:PN7
+As Observed:
+      Parking Problem
+
+Addr: WOODSIDE & SOUTHWOOD; GRID N-13, San Luis  Clearance Code:Unable to Locate
+
+Responsible Officer: Mathews, C
+Units: 4237
+ Des: (MDC) Completed call incid#=170907045 call=57l
+CALL COMMENTS: GRY FORD FUSION L/6BKP196 PARTIALLY PARKED IN RED
+===============================================================================
+170907046 09/07/17 Received:13:14 Dispatched:      Arrived:13:25 Cleared:13:42
+===============================================================================
+Type: COLL NON INJ                                            Location:PN8
+As Observed:
+
+Addr: 1300 BLK MADONNA; GRID G-14, San Luis Obi  Clearance Code:No Report
+
+Responsible Officer: Berrios, G
+Units: 4216
+ Des: incid#=170907046 Completed call disp:NR clr:NR call=58l
+CALL COMMENTS: 1198 CVS PLOT - ON THE SIDE THAT BORDERS MADONNA
+===============================================================================
+170907047 09/07/17 Received:13:19 Dispatched:13:21 Arrived:13:33 Cleared:13:40
+===============================================================================
+Type: Welfare Check                                           Location:PN13
+As Observed:
+
+Addr: 269 MADONNA; EUROPEAN WAX CENTER; GRID I-  Clearance Code:Field Interview
+
+Responsible Officer: Mathews, C
+Units: 4237  ,4240
+ Des: (MDC) Completed call incid#=170907047 call=59l
+CALL COMMENTS: RP WAS TOLD TO CALL BY HER BOSS ABOUT A MALE SLEEPING ON BENCH IF
+===============================================================================
+170907048 09/07/17 Received:13:39 Dispatched:      Arrived:13:39 Cleared:13:40
+===============================================================================
+Type: Alcohol Offense                                         Location:PN1
+As Observed:
+
+Addr: 774 FOOTHILL; CORK AND BOTTLE; GRID I-06,  Clearance Code:Report To Follow
+
+Responsible Officer: Chitty, C
+Units: 4217
+ Des: incid#=170907048 Completed call clr:RTF call=60l
+CALL COMMENTS: OCCD 8/29 AT 1300 HRS
+===============================================================================
+170907049 09/07/17 Received:13:41 Dispatched:13:44 Arrived:13:49 Cleared:14:27
+===============================================================================
+Type: Trespassing                                             Location:PN5
+As Observed:
+      Warrant
+
+Addr: 1035 PEACH; CENTRAL COAST EAR NOSE; GRID   Clearance Code:Report To Follow
+
+Responsible Officer: Mathews, C
+Units: 4237  ,4240
+ Des: incid#=170907049 AP/ARGUELLES,RAYMOND 102484 WARRANT clr:RTF oc:WARR
+      call=61l
+CALL COMMENTS: MALE SLEEPING IN AN OLD BEAT UP GRN CAR IN THE PLOT
+===============================================================================
+170907050 09/07/17 Received:13:45 Dispatched:13:48 Arrived:      Cleared:13:57
+===============================================================================
+Type: Loitering                                               Location:PN6
+As Observed:
+
+Addr: 730 PACIFIC; PDG PRINTS; GRID K-10, San L  Clearance Code:No Report
+
+Responsible Officer: Benson, G
+Units: 4222  ,4247
+ Des: incid#=170907050 Completed call disp:NR clr:NR call=62l
+CALL COMMENTS: SUBJ SLEEPING IN THE DOORWAY LEANING UP AGAINST THE DOORWAY
+===============================================================================
+170907051 09/07/17 Received:13:46 Dispatched:13:57 Arrived:14:04 Cleared:14:19
+===============================================================================
+Type: Lost Property                                           Location:PN5
+As Observed:
+      Lost or Found Property
+
+Addr: CITY OF SAN LUIS OBISPO; ENTIRE CITY, San  Clearance Code:Report To Follow
+
+Responsible Officer: Stradley, E
+Units: 4247
+ Des: (MDC) Completed call incid#=170907051 call=63l
+CALL COMMENTS: PD LOBBY
+===============================================================================
+170907052 09/07/17 Received:13:58 Dispatched:      Arrived:13:58 Cleared:14:04
+===============================================================================
+Type: Towed Vehicle                                           Location:PN1
+As Observed:
+
+Addr: 896 FOOTHILL; LASSENS NATURAL FOODS; GRID  Clearance Code:No Report
+
+Responsible Officer: Lichty, S
+Units: COM1
+ Des: incid#=170907052 ENT SVS - MARTINS PP disp:NR clr:NR call=64l
+CALL COMMENTS: PURPLE JEEP CHEROKEE UT/694KUY
+===============================================================================
+170907053 09/07/17 Received:14:01 Dispatched:14:34 Arrived:14:37 Cleared:14:37
+===============================================================================
+Type: Lost Property                                           Location:PN8
+As Observed:
+
+Addr: 1527 ROYAL # 2; GRID F-14, San Luis Obisp  Clearance Code:Report To Follow
+
+Responsible Officer: Barrett, J
+Units: 42K3
+ Des: (MDC) Completed call incid#=170907053 call=65l
+CALL COMMENTS: BRAZZILIAN DL
+===============================================================================
+170907054 09/07/17 Received:14:12 Dispatched:14:18 Arrived:14:25 Cleared:14:34
+===============================================================================
+Type: Assist Req                                              Location:PN7
+As Observed:
+      Citizen Dispute
+
+Addr: 2110 FLORENCE; GRID L-11, San Luis Obispo  Clearance Code:No Report
+
+Responsible Officer: Orozco, S
+Units: 4240
+ Des: (MDC) Completed call incid#=170907054 call=66l
+CALL COMMENTS: RP WANTS OFFICER TO RESPOND TO HIS HOUSE TO TALK ABOUT PEOPLE ACC
+===============================================================================
+170907055 09/07/17 Received:14:34 Dispatched:14:37 Arrived:14:45 Cleared:15:13
+===============================================================================
+Type: FRAUD                                                   Location:PN6
+As Observed:
+      Suspicious Person/Circumstance
+
+Addr: 1229 CARMEL; BETTYS FABRICS; GRID J-10, S  Clearance Code:Report To Follow
+
+Responsible Officer: Orozco, S
+Units: 4240
+ Des: incid#=170907055 Completed call clr:RTF oc:-FRA call=69l
+CALL COMMENTS: PD LOBBY
+===============================================================================
+170907056 09/07/17 Received:14:55 Dispatched:      Arrived:14:55 Cleared:14:55
+===============================================================================
+Type: COLL NON INJ                                            Location:PN6
+As Observed:
+
+Addr: UPHAM & BROAD; GRID K-11, San Luis Obispo  Clearance Code:Report To Follow
+
+Responsible Officer: Berrios, G
+Units: 4216
+ Des: incid#=170907056 Completed call clr:RTF call=70l
+CALL COMMENTS: COUNTER RPT - OCCD 8/30/17
+===============================================================================
+170907057 09/07/17 Received:15:18 Dispatched:      Arrived:15:20 Cleared:15:21
+===============================================================================
+Type: Traffic Offense                                         Location:PN8
+As Observed:
+
+Addr: MADONNA & OCEANAIRE; GRID H-14, San Luis   Clearance Code:Call Cancelled
+
+Responsible Officer: Lichty, S
+Units: COM1
+ Des: incid#=170907057 TRAFFIC ZONE - VEH HAS GONE PAST THE RP disp:CAN clr:CAN
+      call=7 + 1l
+CALL COMMENTS: VEH BEHIND RP IS TAILGAITING, RP ORIG SAID IT WAS TRYING TO RAM H
+===============================================================================
+170907058 09/07/17 Received:15:24 Dispatched:15:27 Arrived:15:39 Cleared:15:49
+===============================================================================
+Type: Welfare Check                                           Location:PN12
+As Observed:
+
+Addr: SUBURBAN & HIGUERA S; GRID I-17, San Luis  Clearance Code:
+
+Responsible Officer: Stradley, E
+Units: 4247  ,4237
+ Des: (MDC) Completed call incid#=170907058 call=72l
+CALL COMMENTS: LITTLE GIRL WALKING ALONE ON S HIGUERA BTWN SUBURBAN & TF, HEADED
+===============================================================================
+170907059 09/07/17 Received:15:32 Dispatched:15:34 Arrived:15:44 Cleared:16:07
+===============================================================================
+Type: LOITERING                                               Location:PN6
+As Observed:
+      Intoxicated Person
+
+Addr: 158 HIGUERA # E; SLO BEVERAGE N MORE; GRI  Clearance Code:Report To Follow
+
+Responsible Officer: Orozco, S
+Units: 4240  ,4241
+ Des: incid#=170907059 AP/KENEALY,TIMOTHY 022276 PC647F clr:RTF oc:AOFF call=73l
+CALL COMMENTS: MALE DRINKING BEER IFO STORE & REFUSING TO LEAVE
+===============================================================================
+170907060 09/07/17 Received:15:37 Dispatched:15:49 Arrived:15:50 Cleared:15:54
+===============================================================================
+Type: MC-PANHANDLING                                          Location:PN11
+As Observed:
+      MUNI CODE PANHANDLING
+
+Addr: 3880 BROAD; MICHAELS ARTS AND CRAFTS; GRI  Clearance Code:Unable to Locate
+
+Responsible Officer: Mathews, C
+Units: 4237  ,4247
+ Des: (MDC) Completed call incid#=170907060 call=74l
+CALL COMMENTS: FEMALE GOING DOOR TO DOOR IN PLOT ASKING FOR MONEY
+===============================================================================
+170907061 09/07/17 Received:15:37 Dispatched:15:54 Arrived:15:58 Cleared:16:19
+===============================================================================
+Type: Keep the Peace                                          Location:PN10
+As Observed:
+      Keep the Peace
+
+Addr: 3003 ROCKVIEW # 5; GRID L-13, San Luis Ob  Clearance Code:No Report
+
+Responsible Officer: Pellouso, A
+Units: 4241  ,4247
+ Des: (MDC) Completed call incid#=170907061 call=75l
+CALL COMMENTS: 1198 W/RP WHI MERZ RL350
+===============================================================================
+170907062 09/07/17 Received:15:56 Dispatched:      Arrived:15:57 Cleared:15:57
+===============================================================================
+Type: ABAND VEHICLE                                           Location:PN10
+As Observed:
+
+Addr: 675 LAWRENCE; GRID L-13, San Luis Obispo,  Clearance Code:Report To Follow
+
+Responsible Officer: Lichty, S
+Units: COM1
+ Des: incid#=170907062 Completed call clr:RTF call=76l
+CALL COMMENTS: WHI MAZD RX7 L/3BAC088
+===============================================================================
+170907063 09/07/17 Received:16:10 Dispatched:16:14 Arrived:16:23 Cleared:17:29
+===============================================================================
+Type: Juvenile Prob                                           Location:PN4
+As Observed:
+      Juvenile Problem
+
+Addr: 1499 SAN LUIS; SLOHS; GRID L-09, San Luis  Clearance Code:No Report
+
+Responsible Officer: Mathews, C
+Units: 4237  ,4244  ,4213
+ Des: (MDC) Completed call incid#=170907063 call=77l
+CALL COMMENTS: Thu Sep 07 18:54:45 PDT 2017 / RE-OPENED CALL
+===============================================================================
+170907064 09/07/17 Received:16:12 Dispatched:      Arrived:16:24 Cleared:16:33
+===============================================================================
+Type: Suspicious                                              Location:PN6
+As Observed:
+
+Addr: 1445 SANTA ROSA; SENIOR CENTER; GRID K-09  Clearance Code:No Report
+
+Responsible Officer: Stradley, E
+Units: 4247
+ Des: (MDC) Completed call incid#=170907064 call=78l
+CALL COMMENTS: BY THE PLAYGROUND BY THE SENIOR CENTER ON THE OTHER SIDE OF THE H
+===============================================================================
+170907065 09/07/17 Received:16:15 Dispatched:      Arrived:16:18 Cleared:16:19
+===============================================================================
+Type: Assist Req                                              Location:PN10
+As Observed:
+
+Addr: 2584 VICTORIA; RIZZOLIS AUTOMOTIVE; GRID   Clearance Code:No Report
+
+Responsible Officer: Lichty, S
+Units: COM1
+ Des: incid#=170907065 PATROL REQ - ATTN NIGHTS disp:NR clr:NR call=79l
+CALL COMMENTS: PATROL REQUEST - NIGHTS
+===============================================================================
+170907066 09/07/17 Received:16:23 Dispatched:16:56 Arrived:17:04 Cleared:17:11
+===============================================================================
+Type: Theft                                                   Location:PN8
+As Observed:
+      Theft, Property, Other
+
+Addr: 1974 VICENTE; GRID H-15, San Luis Obispo,  Clearance Code:Report To Follow
+
+Responsible Officer: Inglehart, B
+Units: 4208
+ Des: (MDC) Completed call incid#=170907066 call=80l
+CALL COMMENTS: RP GIVEN CASE NUMBER, AVAIL BY 10-21 IF NEEDED
+===============================================================================
+170907067 09/07/17 Received:16:29 Dispatched:16:33 Arrived:16:33 Cleared:16:51
+===============================================================================
+Type: Disorderly                                              Location:PN5
+As Observed:
+
+Addr: MONTEREY & MORRO; GRID K-09, San Luis Obi  Clearance Code:Report To Follow
+
+Responsible Officer: Pellouso, A
+Units: 4241  ,4247
+ Des: (MDC) Completed call incid#=170907067 call=81l
+CALL COMMENTS: FEMALE 415 WITH 2 OTHER FEMALES
+===============================================================================
+170907068 09/07/17 Received:16:32 Dispatched:16:32 Arrived:16:37 Cleared:16:51
+===============================================================================
+Type: COLL NON INJ                                            Location:PN6
+As Observed:
+
+Addr: ISLAY & NIPOMO; GRID K-10, San Luis Obisp  Clearance Code:No Report
+
+Responsible Officer: Sisemore, P
+Units: 4225
+ Des: incid#=170907068 INFO EXCHANGE disp:NR clr:NR call=83l
+CALL COMMENTS: 2 VEHS WHI TOYT/ GRY HONDA OUT OF ROADWAY
+===============================================================================
+170907069 09/07/17 Received:16:29 Dispatched:16:46 Arrived:16:52 Cleared:16:59
+===============================================================================
+Type: Trespassing                                             Location:PN6
+As Observed:
+      Trespass of Real Property
+
+Addr: 354 PACIFIC; SANSONE COMPANY; GRID J-10,   Clearance Code:Unable to Locate
+
+Responsible Officer: Alexander, D
+Units: 4212  ,4208
+ Des: (MDC) Completed call incid#=170907069 call=82l
+CALL COMMENTS: UNINVITED INDIVIDUAL WAS SQUATTING IFO OFFICE DOOR
+===============================================================================
+170907070 09/07/17 Received:16:42 Dispatched:16:51 Arrived:16:56 Cleared:16:57
+===============================================================================
+Type: Smoke Check Out                                         Location:PN6
+As Observed:
+
+Addr: MARSH & HIGUERA; GRID J-10, San Luis Obis  Clearance Code:Call Cancelled
+
+Responsible Officer: Stradley, E
+Units: 4247
+ Des: incid#=170907070 Completed call disp:CAN clr:CAN call=84l
+CALL COMMENTS: ZZZZZZZZZZZ
+===============================================================================
+170907071 09/07/17 Received:16:54 Dispatched:17:00 Arrived:17:09 Cleared:17:29
+===============================================================================
+Type: Theft                                                   Location:PN13
+As Observed:
+      Theft, Property, Shoplifting
+
+Addr: 11998 LOS OSOS VALLEY; ATT PHONE STORE; G  Clearance Code:Report To Follow
+
+Responsible Officer: Alexander, D
+Units: 4212
+ Des: (MDC) Completed call incid#=170907071 call=85l
+CALL COMMENTS: 10 AGO
+===============================================================================
+170907072 09/07/17 Received:16:59 Dispatched:17:11 Arrived:17:15 Cleared:17:40
+===============================================================================
+Type: FRAUD                                                   Location:PN10
+As Observed:
+      Fraud/Swindle/Confidence Game
+
+Addr: 661 FUNSTON; GRID K-12, San Luis Obispo,   Clearance Code:Report To Follow
+
+Responsible Officer: Inglehart, B
+Units: 4208
+ Des: (MDC) Completed call incid#=170907072 call=86l
+CALL COMMENTS: PD LOBBY - OR FRONT PORCH MAYBE
+===============================================================================
+170907073 09/07/17 Received:17:15 Dispatched:17:26 Arrived:17:27 Cleared:17:29
+===============================================================================
+Type: Trespassing                                             Location:PN5
+As Observed:
+
+Addr: 717 MARSH; CVS; GRID K-10, San Luis Obisp  Clearance Code:No Report
+
+Responsible Officer: Sisemore, P
+Units: 4247  ,4225
+ Des: incid#=170907073 Completed call disp:NR clr:NR call=89l
+CALL COMMENTS: TRANSIENT WF, 40'S, DIRTY BLN HAIR, WEARING FLORAL PRINT DRESS, J
+===============================================================================
+170907074 09/07/17 Received:17:16 Dispatched:      Arrived:      Cleared:17:25
+===============================================================================
+Type: Welfare Check                                           Location:PN5
+As Observed:
+
+Addr: 641 HIGUERA; ATTITUDES SALON; GRID J-10,   Clearance Code:No Report
+
+Responsible Officer: Stradley, E
+Units: 4241  ,4240  ,4247  ,4225
+ Des: incid#=170907074 Completed call disp:NR clr:NR call=90l
+CALL COMMENTS: JUST TO THE RIGHT OF THE ELEVATOR LOBBY ON NIPOMO SIDE MALE LAYIN
+===============================================================================
+170907075 09/07/17 Received:17:31 Dispatched:      Arrived:17:44 Cleared:18:22
+===============================================================================
+Type: Disorderly                                              Location:PN6
+As Observed:
+      Alcohol Offense
+
+Addr: 800 BLK PACIFIC; GRID K-09, San Luis Obis  Clearance Code:Report Approved/
+
+Responsible Officer: Inglehart, B
+Units: 4212  ,4208
+ Des: incid#=170907075 AP/SECHIATANO,JOSEPH 050273 PC647F clr:RTF oc:AOFF
+      call=91l
+CALL COMMENTS: WM,600, BRO CURLY HAIR, NO SHIRT, BACKPACK LS TWDS MITCHELL PARK
+===============================================================================
+170907076 09/07/17 Received:17:34 Dispatched:      Arrived:17:34 Cleared:17:46
+===============================================================================
+Type: Towed Vehicle                                           Location:PN5
+As Observed:
+
+Addr: 995 HIGUERA; UNION BANK; GRID K-09, San L  Clearance Code:No Report
+
+Responsible Officer: Hurni, J
+Units: 4235
+ Des: incid#=170907076 Completed call disp:NR clr:NR call=92l
+CALL COMMENTS: 17:46:24 09/07/2017 - Hixenbaugh, D - From: Hurni, J
+===============================================================================
+170907077 09/07/17 Received:17:38 Dispatched:17:39 Arrived:17:50 Cleared:17:56
+===============================================================================
+Type: COLL HIT AND RU                                         Location:PN10
+As Observed:
+      Traffic Accident, Prop Damage
+
+Addr: 2160 SANTA BARBARA; FIRE STATION 1; GRID   Clearance Code:No Report
+
+Responsible Officer: Sisemore, P
+Units: 4225  ,4243
+ Des: incid#=170907077 Completed call disp:NR clr:NR call=94l
+CALL COMMENTS: 1198 FIRE STATION 4/1395 MADONNA
+===============================================================================
+170907078 09/07/17 Received:17:51 Dispatched:18:36 Arrived:17:51 Cleared:18:16
+===============================================================================
+Type: Towed Vehicle                                           Location:PN5
+As Observed:
+
+Addr: HIGUERA & CHORRO; GRID K-09, San Luis Obi  Clearance Code:No Report
+
+Responsible Officer: Hurni, J
+Units: 4235
+ Des: incid#=170907078 Completed call disp:NR clr:NR call=95l
+CALL COMMENTS: 18:36:16 09/07/2017 - Hixenbaugh, D - From: Hurni, J
+===============================================================================
+170907079 09/07/17 Received:17:56 Dispatched:      Arrived:18:05 Cleared:18:52
+===============================================================================
+Type: Traffic Hazard                                          Location:PN5
+As Observed:
+
+Addr: MONTEREY & SANTA ROSA; GRID K-09, San Lui  Clearance Code:No Report
+
+Responsible Officer: Sisemore, P
+Units: 4225
+ Des: incid#=170907079 Completed call disp:NR clr:NR call=96l
+CALL COMMENTS: DISABLED VEH IN TURN LANE
+===============================================================================
+170907080 09/07/17 Received:18:04 Dispatched:18:09 Arrived:18:45 Cleared:20:15
+===============================================================================
+Type: Welfare Check                                           Location:PN6
+As Observed:
+
+Addr: 1821 MORRO; GRID K-10, San Luis Obispo, C  Clearance Code:Report To Follow
+
+Responsible Officer: Alexander, D
+Units: 4212  ,4241  ,4247
+ Des: (MDC) Completed call incid#=170907080 call=97l
+CALL COMMENTS: ANON CALLER TO CWS LEFT MSG 30 AGO THAT SAID:
+===============================================================================
+170907081 09/07/17 Received:18:11 Dispatched:      Arrived:18:25 Cleared:18:36
+===============================================================================
+Type: Assault                                                 Location:PN5
+As Observed:
+      Assault, Simple
+
+Addr: 989 CHORRO; MISSION PLAZA; GRID K-09, San  Clearance Code:Report To Follow
+
+Responsible Officer: Hurni, J
+Units: 4240  ,4237  ,4235
+ Des: incid#=170907081 Completed call clr:RTF call=98l
+CALL COMMENTS: RP IS NEAR RESTROOMS IN PLAZA
+===============================================================================
+170907082 09/07/17 Received:18:18 Dispatched:18:26 Arrived:18:29 Cleared:18:44
+===============================================================================
+Type: Welfare Check                                           Location:PN5
+As Observed:
+
+Addr: 894 MARSH; BARNES AND NOBLE; GRID K-09, S  Clearance Code:Unable to Locate
+
+Responsible Officer: Mathews, C
+Units: 4237
+ Des: (MDC) Completed call incid#=170907082 call=100l
+CALL COMMENTS: 1198 INSIDE
+===============================================================================
+170907083 09/07/17 Received:18:18 Dispatched:18:23 Arrived:18:24 Cleared:18:37
+===============================================================================
+Type: Disorderly                                              Location:PN6
+As Observed:
+      Disorderly Conduct
+
+Addr: PISMO & NIPOMO; GRID J-10, San Luis Obisp  Clearance Code:Gone on Arrival
+
+Responsible Officer: Bywater, J
+Units: 4242  ,4241  ,S7
+ Des: incid#=170907083 Completed call call=101l
+CALL COMMENTS: MALE RUNNING AROUND YELLING AND GOING IN TO YARDS
+===============================================================================
+170907084 09/07/17 Received:18:24 Dispatched:      Arrived:18:42 Cleared:
+===============================================================================
+Type: Citizen Dispute                                         Location:PN6
+As Observed:
+      Citizen Assist
+
+Addr: 1820 SANTA BARBARA # 209; GRID L-10, San   Clearance Code:No Report
+
+Responsible Officer: Orozco, S
+Units: 4240  ,      ,S7    ,4242
+ Des:
+CALL COMMENTS: 1198 RP IFO APTS
+===============================================================================
+170907085 09/07/17 Received:18:31 Dispatched:18:38 Arrived:18:45 Cleared:18:38
+===============================================================================
+Type: Theft                                                   Location:PN13
+As Observed:
+      Theft, Property, From Mtr Veh
+
+Addr: 504 MADONNA; LAGUNA LAKE PARK; GRID H-13,  Clearance Code:Report To Follow
+
+Responsible Officer: Bywater, J
+Units: 4242  ,4240  ,S7
+ Des: (MDC) Completed call incid#=170907085 call=103l
+CALL COMMENTS: 10-21 RP
+===============================================================================
+170907086 09/07/17 Received:18:38 Dispatched:      Arrived:18:45 Cleared:18:46
+===============================================================================
+Type: Alarm Audible                                           Location:PN1
+As Observed:
+      Alarm
+
+Addr: 862 MEINECKE # 100; CENTRAL COAST ORTHOPE  Clearance Code:ALARM MALFUNCTIO
+
+Responsible Officer: Inglehart, B
+Units: 4208
+ Des: (MDC) Completed call incid#=170907086 call=104l
+CALL COMMENTS: ENTRY EXIT DOOR
+===============================================================================
+170907087 09/07/17 Received:18:47 Dispatched:      Arrived:19:13 Cleared:19:19
+===============================================================================
+Type: Animal Problem                                          Location:PN5
+As Observed:
+
+Addr: HIGUERA & GARDEN; GRID K-09, San Luis Obi  Clearance Code:No Report
+
+Responsible Officer: Hurni, J
+Units: 4235
+ Des: incid#=170907087 OWNER PICKED UP DOG disp:NR clr:NR call=106l
+CALL COMMENTS: RP PICKED UP A CHIHUAHUA THAT HE SAYS A TRANSIENT ABANDONED.  NOW
+===============================================================================
+170907088 09/07/17 Received:18:50 Dispatched:18:54 Arrived:18:57 Cleared:19:05
+===============================================================================
+Type: Alarm Audible                                           Location:PN5
+As Observed:
+
+Addr: 919 PALM PUBLIC WORKS; GRID K-09, San Lui  Clearance Code:ALARM MALFUNCTIO
+
+Responsible Officer: Hurni, J
+Units: 4235  ,4208
+ Des: incid#=170907088 Completed call disp:NR clr:MLF call=108l
+CALL COMMENTS: REAR LEFT DOOR, INTERIOR REAR 360 DEGREE 
+===============================================================================
+170907089 09/07/17 Received:18:59 Dispatched:      Arrived:19:12 Cleared:19:12
+===============================================================================
+Type: Suspicious                                              Location:PN10
+As Observed:
+
+Addr: 2230 EXPOSITION # 29; GRID J-12, San Luis  Clearance Code:Gone on Arrival
+
+Responsible Officer: Bywater, J
+Units: 4242
+ Des: incid#=170907089 Completed call disp:NR clr:GOA call=110l
+CALL COMMENTS: TWO MALE TRANSIENTS IN THE CREEK BEHIND RP'S RES. RP FEELS THEY S
+===============================================================================
+170907090 09/07/17 Received:19:16 Dispatched:19:22 Arrived:19:27 Cleared:19:32
+===============================================================================
+Type: Suspicious                                              Location:PN12
+As Observed:
+
+Addr: 3977 HIGUERA S; TRADER JOES; GRID I-17, S  Clearance Code:Gone on Arrival
+
+Responsible Officer: Inglehart, B
+Units: 4221  ,4208
+ Des: (MDC) Completed call incid#=170907090 call=111l
+CALL COMMENTS: MALE TRANSIENT IN PLOT, RUNNING AND YELLING/SCREAMING, WAVING ARM
+===============================================================================
+170907091 09/07/17 Received:19:23 Dispatched:19:26 Arrived:19:30 Cleared:19:30
+===============================================================================
+Type: Juvenile Prob                                           Location:PN5
+As Observed:
+
+Addr: 894 MARSH; BARNES AND NOBLE; GRID K-09, S  Clearance Code:Gone on Arrival
+
+Responsible Officer: Hurni, J
+Units: 4235
+ Des: incid#=170907091 Completed call call=117l
+CALL COMMENTS: REOPENED CALL-
+===============================================================================
+170907092 09/07/17 Received:19:23 Dispatched:      Arrived:19:30 Cleared:19:54
+===============================================================================
+Type: Assist Req                                              Location:PN5
+As Observed:
+
+Addr: 894 MARSH; BARNES AND NOBLE; GRID K-09, S  Clearance Code:No Report
+
+Responsible Officer: Hurni, J
+Units: 4235
+ Des: incid#=170907092 got him back to his veh disp:NR clr:NR call=112l
+CALL COMMENTS: 90 YO RP WAS SUPPOSED TO MEET DAUGHTER, JULIA, AT FARMERS AND HE
+===============================================================================
+170907093 09/07/17 Received:19:50 Dispatched:19:59 Arrived:20:01 Cleared:20:25
+===============================================================================
+Type: Threatening                                             Location:PN7
+As Observed:
+
+Addr: 1020 SOUTHWOOD; YMCA; GRID M-12, San Luis  Clearance Code:No Report
+
+Responsible Officer: Stahnke, A
+Units: 4206
+ Des: (MDC) Completed call incid#=170907093 call=114l
+CALL COMMENTS: 10-21
+===============================================================================
+170907094 09/07/17 Received:20:08 Dispatched:20:11 Arrived:20:15 Cleared:20:33
+===============================================================================
+Type: Disorderly                                              Location:PN7
+As Observed:
+
+Addr: 3500 BULLOCK # 81; GRID M-14, San Luis Ob  Clearance Code:No Report
+
+Responsible Officer: Bywater, J
+Units: 4242  ,4221
+ Des: (MDC) Completed call incid#=170907094 call=115l
+CALL COMMENTS: HEARD ONLY
+===============================================================================
+170907095 09/07/17 Received:20:25 Dispatched:20:29 Arrived:20:51 Cleared:20:54
+===============================================================================
+Type: Threatening                                             Location:PN2
+As Observed:
+      Threatening
+
+Addr: 1464 FOOTHILL; ALPHA CHI OMEGA SORORITY;   Clearance Code:Unfounded
+
+Responsible Officer: Locarnini, C
+Units: 4203  ,4243
+ Des: (MDC) Completed call incid#=170907095 call=118l
+CALL COMMENTS: 10-21
+===============================================================================
+170907096 09/07/17 Received:20:31 Dispatched:20:38 Arrived:20:40 Cleared:20:51
+===============================================================================
+Type: Trespassing                                             Location:PN6
+As Observed:
+
+Addr: 1251 JOHNSON; RITE AID; GRID L-09, San Lu  Clearance Code:Field Interview
+
+Responsible Officer: Stahnke, A
+Units: 4235  ,4206
+ Des: (MDC) Completed call incid#=170907096 call=120l
+CALL COMMENTS: RP REQ PD RESPOND TO ADV FEMALE OF 602, SHE'S BEEN IN BUSN TWICE
+===============================================================================
+170907097 09/07/17 Received:20:58 Dispatched:21:05 Arrived:21:07 Cleared:21:24
+===============================================================================
+Type: BURG VEHICLE                                            Location:PN6
+As Observed:
+      Burglary
+
+Addr: PACIFIC & NIPOMO; GRID J-10, San Luis Obi  Clearance Code:Report To Follow
+
+Responsible Officer: Hurni, J
+Units: 4235
+ Des: incid#=170907097 Completed call clr:RTF call=121l
+CALL COMMENTS: VICT VEH PARKED ON NIPOMO
+===============================================================================
+170907098 09/07/17 Received:21:10 Dispatched:      Arrived:21:16 Cleared:21:45
+===============================================================================
+Type: Assist Req                                              Location:PN13
+As Observed:
+
+Addr: 281 MADONNA; ULTA BEAUTY; GRID I-13, San   Clearance Code:Field Interview
+
+Responsible Officer: Stahnke, A
+Units: 4206  ,4221  ,4243
+ Des: (MDC) Completed call incid#=170907098 call=122l
+CALL COMMENTS: REQ OFC STAND BY WHILE 4 FEMALE EMPS LEAVE THE STORE
+===============================================================================
+170907099 09/07/17 Received:21:36 Dispatched:21:46 Arrived:      Cleared:21:50
+===============================================================================
+Type: Medical                                                 Location:PN10
+As Observed:
+
+Addr: 736 ORCUTT; HOMELESS SHELTER; GRID L-13,   Clearance Code:Call Cancelled
+
+Responsible Officer: Alexander, D
+Units: 4212  ,4243
+ Des: incid#=170907099 Completed call disp:CAN clr:CAN call=124l
+CALL COMMENTS: C3 FOR DIFF BREATHING, RP SAYS HE'S AT THE BOTTOM OF THE HILL
+===============================================================================
+170907100 09/07/17 Received:22:17 Dispatched:22:18 Arrived:22:24 Cleared:22:29
+===============================================================================
+Type: Noise Party                                             Location:PN7
+As Observed:
+      Noise Party
+
+Addr: 1459 ELLA; TO THE RIGHT; GRID L-10, San L  Clearance Code:Unable to Locate
+
+Responsible Officer: Bracy, B
+Units: P1    ,P1
+ Des: (MDC) Completed call incid#=170907100 call=125l
+CALL COMMENTS: LOUD SUBJS
+===============================================================================
+170907101 09/07/17 Received:22:21 Dispatched:22:48 Arrived:22:57 Cleared:23:25
+===============================================================================
+Type: Parking Problem                                         Location:PN6
+As Observed:
+      Towed Vehicle
+
+Addr: 1420 MORRO; GRID K-10, San Luis Obispo, C  Clearance Code:Report To Follow
+
+Responsible Officer: Inglehart, B
+Units: 4208
+ Des: incid#=170907101 Completed call clr:RTF call=126l
+CALL COMMENTS: VEH BLOCKING GARAGE SO RP CAN LEAVE
+===============================================================================
+170907102 09/07/17 Received:22:37 Dispatched:22:44 Arrived:22:48 Cleared:22:52
+===============================================================================
+Type: Disorderly                                              Location:PN5
+As Observed:
+
+Addr: 885 HIGUERA; STARBUCKS; GRID K-09, San Lu  Clearance Code:Gone on Arrival
+
+Responsible Officer: Stahnke, A
+Units: 4206  ,4243
+ Des: (MDC) Completed call incid#=170907102 call=127l
+CALL COMMENTS: FEMALE TRANSIENT, 40'S WEARING A BLK SWEATSHIRT YELLING/SCREAMING
+===============================================================================
+170907103 09/07/17 Received:23:06 Dispatched:23:07 Arrived:      Cleared:23:08
+===============================================================================
+Type: Towed Vehicle                                           Location:PN2
+As Observed:
+
+Addr: 1252 FOOTHILL; WATSON MANOR APTS; GRID K-  Clearance Code:No Report
+
+Responsible Officer: Murphy, J
+Units: COM6
+ Des: incid#=170907103 SVS ENTRY disp:NR clr:NR oc:TOW call=128l
+CALL COMMENTS: WHI TOYT HIGHLANDER
+===============================================================================
+170907104 09/07/17 Received:23:07 Dispatched:23:11 Arrived:23:12 Cleared:23:18
+===============================================================================
+Type: Trespassing                                             Location:PN1
+As Observed:
+
+Addr: 359 TOLOSA; GRID I-05, San Luis Obispo, C  Clearance Code:Unable to Locate
+
+Responsible Officer: Alexander, D
+Units: 4212  ,4243  ,4242  ,4206
+ Des: (MDC) Completed call incid#=170907104 call=136l
+CALL COMMENTS: Thu Sep 07 23:32:42 PDT 2017 REOPENED
+===============================================================================
+170907105 09/07/17 Received:23:12 Dispatched:      Arrived:23:14 Cleared:23:35
+===============================================================================
+Type: Traffic Hazard                                          Location:PN9
+As Observed:
+
+Addr: HIGUERA S & PRADO; GRID J-15, San Luis Ob  Clearance Code:No Report
+
+Responsible Officer: Cudworth, R
+Units: S6    ,4242
+ Des: incid#=170907105 Completed call call=130l
+CALL COMMENTS: MALE WEARING DK CLOTHING SITTING IN THE MIDDLE OF THE STREET ON P
+===============================================================================
+170907106 09/07/17 Received:23:14 Dispatched:23:15 Arrived:23:16 Cleared:23:24
+===============================================================================
+Type: Noise Party                                             Location:PN2
+As Observed:
+
+Addr: 1217 MILL; GRID K-08, San Luis Obispo, CA  Clearance Code:Disturbance Adv
+
+Responsible Officer: Bracy, B
+Units: P1    ,P1
+ Des: (MDC) LUCIER, JACQUELINE -20 SUBS ALC incid#=170907106 call=131l
+CALL COMMENTS: VOICES
+===============================================================================
+170907107 09/07/17 Received:23:28 Dispatched:23:30 Arrived:      Cleared:
+===============================================================================
+Type: NOISE 2ND RESP                                          Location:PN2
+As Observed:
+
+Addr: 1217 MILL; GRID K-08, San Luis Obispo, CA  Clearance Code:Negative Violati
+
+Responsible Officer: Bracy, B
+Units: P1    ,P1    ,      ,4242  ,4208  ,S7
+ Des:
+CALL COMMENTS: VOICES AND SUBS CLIMBING OVER FENCE INTO PLOT FOR 1208 PALM
+===============================================================================
+170907108 09/07/17 Received:23:31 Dispatched:23:38 Arrived:23:45 Cleared:00:03
+===============================================================================
+Type: NOISE POLICE                                            Location:PN1
+As Observed:
+
+Addr: 362 SANTA LUCIA; GRID H-05, San Luis Obis  Clearance Code:Citation
+
+Responsible Officer: Parsons, N
+Units: 4243  ,      ,4212
+ Des: incid#=170907108 CITE/LEVINE, JOE CUSTA 3 NO ALCOHOL disp:NR clr:CIT
+      call=133l
+CALL COMMENTS: LOUD SUBJS IN BACKYARD
+===============================================================================
+170908001 09/08/17 Received:00:23 Dispatched:      Arrived:00:27 Cleared:00:30
+===============================================================================
+Type: Loitering                                               Location:PN2
+As Observed:
+      Loitering
+
+Addr: 180 CALIFORNIA; KAPPA ALPHA THETA SORORIT  Clearance Code:Gone on Arrival
+
+Responsible Officer: Middleton, J
+Units: 4221
+ Des: (MDC) Completed call incid#=170908001 call=1l
+CALL COMMENTS: SUBJ WAS GOING THROUGH TRASH
+===============================================================================
+170908002 09/08/17 Received:00:38 Dispatched:      Arrived:00:38 Cleared:00:52
+===============================================================================
+Type: Alcohol Offense                                         Location:PN2
+As Observed:
+
+Addr: KENTUCKY & FREDERICKS; GRID K-06, San Lui  Clearance Code:Report Returned
+
+Responsible Officer: Stahnke, A
+Units: 4206  ,S7
+ Des: incid#=170908002 MONTEMAYORPADILLA, CHRISTOPHER D 052897    PC647F clr:RTF
+      call= + 2l
+CALL COMMENTS:
+===============================================================================
+170908003 09/08/17 Received:01:26 Dispatched:01:27 Arrived:01:27 Cleared:01:54
+===============================================================================
+Type: Welfare Check                                           Location:PN5
+As Observed:
+
+Addr: 989 CHORRO; MISSION PLAZA; GRID K-09, San  Clearance Code:Report Approved/
+
+Responsible Officer: Middleton, J
+Units: 4221  ,4244
+ Des: incid#=170908003 QIU, LEAH E 102895 PC647F clr:RTF call=4l
+CALL COMMENTS: FEM PASSED OUT ON GRASS NEAR RESTROOMS
+===============================================================================
+170908004 09/08/17 Received:01:41 Dispatched:      Arrived:01:58 Cleared:02:05
+===============================================================================
+Type: Disorderly                                              Location:PN12
+As Observed:
+
+Addr: 3985 HIGUERA S; FOOD 4 LESS; GRID I-17, S  Clearance Code:Unable to Locate
+
+Responsible Officer: Parsons, N
+Units: 4243  ,4244
+ Des: (MDC) Completed call incid#=170908004 call=5l
+CALL COMMENTS: MALE 415 INSIDE THE STORE
+===============================================================================
+170908005 09/08/17 Received:02:50 Dispatched:02:53 Arrived:      Cleared:02:58
+===============================================================================
+Type: DUI                                                     Location:PN11
+As Observed:
+
+Addr: BROAD & ORCUTT; GRID L-13, San Luis Obisp  Clearance Code:No Report
+
+Responsible Officer: Murphy, J
+Units: COM6
+ Des: incid#=170908005 GREEN BOL disp:NR clr:NR oc:TOFF call=7l
+CALL COMMENTS: WHI TOYT CAMRY AND BLU VEH, SWERVING ALL OVER ROADWAY // UNK 28'S
+===============================================================================
+170908006 09/08/17 Received:02:52 Dispatched:02:56 Arrived:02:59 Cleared:03:03
+===============================================================================
+Type: Suspicious                                              Location:PN5
+As Observed:
+
+Addr: 955 MONTEREY; ANDERSON APTS; GRID K-09, S  Clearance Code:No Report
+
+Responsible Officer: Molina, C
+Units: 4244  ,4221
+ Des: (MDC) Completed call incid#=170908006 call=8l
+
+CALL COMMENTS: WM, HEAVY SET, BEARD, WEARING GRY HOODIE AND GRY SWEATPANTS SITTI
+===============================================================================
+170908007 09/08/17 Received:03:17 Dispatched:03:43 Arrived:03:51 Cleared:04:01
+===============================================================================
+Type: Noise Other                                             Location:PN1
+As Observed:
+      Noise Other
+
+Addr: 555 WESTMONT;UNK APT; ELDORADO APARTMENTS  Clearance Code:Negative Violati
+
+Responsible Officer: Parsons, N
+Units: 4243  ,4244
+ Des: (MDC) Completed call incid#=170908007 call=9l
+CALL COMMENTS: LOUD ELECTRIC GUITAR HEARD
+===============================================================================
+170908008 09/08/17 Received:03:17 Dispatched:03:23 Arrived:03:33 Cleared:03:43
+===============================================================================
+Type: Suspicious                                              Location:PN12
+As Observed:
+
+Addr: 3860 HIGUERA S; SILVER CITY MHP; GRID I-1  Clearance Code:Unable to Locate
+
+Responsible Officer: Molina, C
+Units: 4244  ,4243
+ Des: (MDC) Completed call incid#=170908008 call=10l
+CALL COMMENTS: 2ND TO LAST UNIT ON MAPLE, AT MAPLE AND BEECH
+===============================================================================
+170908009 09/08/17 Received:04:01 Dispatched:04:01 Arrived:04:09 Cleared:04:23
+===============================================================================
+Type: Noise Party                                             Location:PN8
+As Observed:
+
+Addr: 1856 THELMA; GRID E-14, San Luis Obispo,   Clearance Code:Quiet on Arrival
+
+Responsible Officer: Molina, C
+Units: 4244  ,4243
+ Des: (MDC) Completed call incid#=170908009 call=12l
+CALL COMMENTS: LOUD SUBJS
+===============================================================================
+170908010 09/08/17 Received:04:04 Dispatched:      Arrived:04:06 Cleared:04:33
+===============================================================================
+Type: Welfare Check                                           Location:PN1
+As Observed:
+
+Addr: 151 SANTA ROSA N; CHEVRON; GRID J-06, San  Clearance Code:No Report
+
+Responsible Officer: Middleton, J
+Units: 4221  ,4203
+ Des: (MDC) Completed call incid#=170908010 call=13l
+CALL COMMENTS: TRANSIENT MALE SLEEPING/PASSED OUT IN BUSHES NEAR AIR AND WATER S
+===============================================================================
+170908011 09/08/17 Received:04:21 Dispatched:04:23 Arrived:04:25 Cleared:04:33
+===============================================================================
+Type: Traffic Hazard                                          Location:PN13
+As Observed:
+      Medical
+
+Addr: LOVR & FROOM RANCH; GRID G-15, San Luis O  Clearance Code:Field Interview
+
+Responsible Officer: Parsons, N
+Units: 4243  ,4244  ,4221
+ Des: (MDC) Completed call incid#=170908011 call=16l
+CALL COMMENTS: C2 PD ON SCENE, UNK MEDICAL
+===============================================================================
+170908012 09/08/17 Received:05:14 Dispatched:05:57 Arrived:06:03 Cleared:06:52
+===============================================================================
+Type: Welfare Check                                           Location:PN5
+As Observed:
+
+Addr: 955 MONTEREY; 207; ANDERSON APTS; GRID K-  Clearance Code:Field Interview
+
+Responsible Officer: Middleton, J
+Units: 4221  ,4203  ,S6
+ Des: (MDC) Completed call incid#=170908012 call=17l
+CALL COMMENTS: PD ON SCENE REQ ASSIST PRYING OPEN DOOR
+===============================================================================
+170908013 09/08/17 Received:06:06 Dispatched:06:06 Arrived:06:07 Cleared:06:18
+===============================================================================
+Type: Assist Req                                              Location:PN5
+As Observed:
+      Agency Assist
+
+Addr: 1042 WALNUT; SLOPD; GRID K-08, San Luis O  Clearance Code:No Report
+
+Responsible Officer: Molina, C
+Units: 4244
+ Des: (MDC) Completed call incid#=170908013 call=19l
+CALL COMMENTS: VEH RELEASE
+--------------------------------------------------------------------------------
+    Total Incidents for This Report:
+--------------------------------------------------------------------------------
+Report Includes:
+All dates between `07:00:00 09/07/17` and `07:00:00 09/08/17`
+All agencies matching `SLP*`
+All officers
+All dispositions
+All natures
+All locations
+All cities
+All clearance codes
+All observed offenses
+All reported offenses
+--------------------------------------------------------------------------------
+                  *** End of Report /tmp/rptK46cZu-rpcdsum.r2_1 ***
