@@ -1,2 +1,2 @@
-0 * * * * . /root/snoopy/bin/activate && python /usr/share/crime-map/pull_slopd_logs.py
-0 * * * * . /root/snoopy/bin/activate && python /usr/share/crime-map/location.py
+0 * * * * . /root/snoopy/bin/activate && python /usr/share/crime-map-cron/pull_slopd_logs.py
+0 * * * * . /root/snoopy/bin/activate && python /usr/share/crime-map-cron/location.py
